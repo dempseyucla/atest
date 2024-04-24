@@ -1,6 +1,13 @@
-main
-one
-GitHub bound AAAAAA
-This is two
-DIFF THIS in two.c!
-This is github AAAAAA
+Tue Apr 23 22:14:00 PDT 2024
+total 68
+-rwxr-xr-x 1 www-data www-data 17872 Apr 23 22:11 atest
+-rw-r--r-- 1 www-data www-data 11038 Apr 23 22:12 atest.a
+-rw------- 1 www-data www-data   128 Apr 23 22:11 atest.c
+-rw-r--r-- 1 www-data www-data  3744 Apr 23 22:11 atest.o
+-rw-r--r-- 1 www-data www-data    20 Apr 23 22:11 git_pull.txt
+-rw-rw-rw- 1 www-data repoleaf    11 Apr 23 22:13 myshell.bash
+-rw------- 1 www-data www-data    85 Apr 23 22:11 one.c
+-rw-r--r-- 1 www-data www-data  3504 Apr 23 22:11 one.o
+-rw-rw-r-- 1 repoleaf repoleaf    29 Apr 23 22:14 repoleaf_output.txt
+-rw------- 1 www-data www-data    93 Apr 23 22:11 two.c
+-rw-r--r-- 1 www-data www-data  3512 Apr 23 22:11 two.o
